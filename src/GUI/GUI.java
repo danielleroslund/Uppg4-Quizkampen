@@ -18,9 +18,9 @@ import java.util.List;
 
 public class GUI extends JFrame implements ActionListener {
 
-    private JPanel panel1 = new JPanel();			//panel1 har en JLabel (dvs bara text)
-    private JPanel panel2 = new JPanel();			//panel2 har svars- eller kategoriknappar
-    private JPanel panel3 = new JPanel();			//panel3 har okButton eller Avsluta
+    private JPanel panel1 = new JPanel();
+    private JPanel panel2 = new JPanel();
+    private JPanel panel3 = new JPanel();
 
     private JLabel label1 = new JLabel("Spelet Startar Strax");
 
